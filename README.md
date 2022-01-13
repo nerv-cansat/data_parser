@@ -9,3 +9,5 @@ Put the test.json file in the same directory as the main script.
 npm install
 node main.js
 ```
+
+[!image](https://i.imgur.com/zfW8AzE.png)
