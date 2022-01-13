@@ -10,4 +10,4 @@ npm install
 node main.js
 ```
 
-[!image](https://i.imgur.com/zfW8AzE.png)
+![image](https://i.imgur.com/zfW8AzE.png)
