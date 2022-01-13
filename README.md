@@ -4,7 +4,7 @@ A `test.json` file was provided featured with the same data format as the one us
 The generated excel file is also included in the repo. It should be deleted before running the script.
 
 ## How to use:
-Put the test.json file in the same directory as the main script.\
+Put the test.json file in the same directory as the main script.
 ```
 npm install
 node main.js
