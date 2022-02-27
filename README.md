@@ -11,3 +11,6 @@ node main.js
 ```
 
 ![image](https://i.imgur.com/zfW8AzE.png)
+
+# FDR changes
+- Now supporting the new sensors.
